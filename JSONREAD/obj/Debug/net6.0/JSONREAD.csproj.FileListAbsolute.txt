@@ -1,0 +1,15 @@
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\bin\Debug\net6.0\JSONREAD.exe
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\bin\Debug\net6.0\JSONREAD.deps.json
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\bin\Debug\net6.0\JSONREAD.runtimeconfig.json
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\bin\Debug\net6.0\JSONREAD.dll
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\bin\Debug\net6.0\JSONREAD.pdb
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\obj\Debug\net6.0\JSONREAD.csproj.AssemblyReference.cache
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\obj\Debug\net6.0\JSONREAD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\obj\Debug\net6.0\JSONREAD.AssemblyInfoInputs.cache
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\obj\Debug\net6.0\JSONREAD.AssemblyInfo.cs
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\obj\Debug\net6.0\JSONREAD.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\obj\Debug\net6.0\JSONREAD.dll
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\obj\Debug\net6.0\refint\JSONREAD.dll
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\obj\Debug\net6.0\JSONREAD.pdb
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\obj\Debug\net6.0\JSONREAD.genruntimeconfig.cache
+C:\Users\student\Documents\ISP20\Vtitbid.ISP20.Sava\JSONREAD\obj\Debug\net6.0\ref\JSONREAD.dll

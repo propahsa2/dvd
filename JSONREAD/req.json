@@ -1,0 +1,1361 @@
+{
+    "items": [
+        {
+            "id": "72558852",
+            "premium": false,
+            "name": "Диспетчер транспортного отдела",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 30000,
+                "to": 35000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "улица Химиков",
+                "building": "62",
+                "description": null,
+                "lat": 47.515735,
+                "lng": 42.124124,
+                "raw": "Волгодонск, улица Химиков, 62",
+                "metro": null,
+                "metro_stations": [],
+                "id": "1726232"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-18T17:29:13+0300",
+            "created_at": "2022-11-18T17:29:13+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72558852",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72558852?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72558852/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72558852",
+            "relations": [],
+            "employer": {
+                "id": "3058458",
+                "name": "НПО НИИПАВ",
+                "url": "https://api.hh.ru/employers/3058458",
+                "alternate_url": "https://hh.ru/employer/3058458",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3058458",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Высшее или средне-профессиональное образование. Уверенный пользователь ПК. Опыт работы в программе 1С.",
+                "responsibility": "Выдача и заполнение путевых листов. Ведение журналов путевых листов. Приём и обработка заявок. Взаимодействие с транспортом и водителями. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72668265",
+            "premium": false,
+            "name": "Офис-менеджер",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": true,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-21T11:22:58+0300",
+            "created_at": "2022-11-21T11:22:58+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72668265",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72668265?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72668265/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72668265",
+            "relations": [],
+            "employer": {
+                "id": "5454501",
+                "name": "Риметалк",
+                "url": "https://api.hh.ru/employers/5454501",
+                "alternate_url": "https://hh.ru/employer/5454501",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/933050.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/4172753.jpeg",
+                    "90": "https://hhcdn.ru/employer-logo/4172752.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5454501",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Среднее специальное, неоконченное высшее или высшее образование. Уверенный пользователь компьютера в т.ч.пакета программ MS Office. Опыт работы с оргтехникой. ",
+                "responsibility": "Поддержание жизнедеятельности офиса компании. Ведение документооборота в компании. Систематизация и поддержание порядка в организационной документации. Ведение архива документов. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72456259",
+            "premium": false,
+            "name": "Младший инженер-тестировщик",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 35000,
+                "to": 35000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "7-я Заводская улица",
+                "building": "60",
+                "description": null,
+                "lat": 47.503398,
+                "lng": 42.23149,
+                "raw": "Волгодонск, 7-я Заводская улица, 60",
+                "metro": null,
+                "metro_stations": [],
+                "id": "7469018"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-20T10:51:15+0300",
+            "created_at": "2022-11-20T10:51:15+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72456259",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72456259?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72456259/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72456259",
+            "relations": [],
+            "employer": {
+                "id": "3461189",
+                "name": "Топаз-сервис",
+                "url": "https://api.hh.ru/employers/3461189",
+                "alternate_url": "https://hh.ru/employer/3461189",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3461189",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Понимание жизненного цикла разработки ПО. Знание основных принципов, методологий и терминов, применяемых в тестировании. Умение составлять тест-планы, тест-кейсы...",
+                "responsibility": "Организация и проведение различных видов ручного тестирования. Проведение функционального ручного тестирования ПК, мобильных (iOS/Android) и web-приложений. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72355131",
+            "premium": false,
+            "name": "Табельщик на производство",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 28000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "Жуковское шоссе",
+                "building": "10",
+                "description": null,
+                "lat": 47.507616,
+                "lng": 42.219228,
+                "raw": "Волгодонск, Жуковское шоссе, 10",
+                "metro": null,
+                "metro_stations": [],
+                "id": "3684107"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-15T13:48:33+0300",
+            "created_at": "2022-11-15T13:48:33+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72355131",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72355131?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72355131/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72355131",
+            "relations": [],
+            "employer": {
+                "id": "4358880",
+                "name": "Волгодонский филиал АО АТМ",
+                "url": "https://api.hh.ru/employers/4358880",
+                "alternate_url": "https://hh.ru/employer/4358880",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/773326.png",
+                    "90": "https://hhcdn.ru/employer-logo/3534195.png",
+                    "240": "https://hhcdn.ru/employer-logo/3534196.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4358880",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "высшее образование или средне-специальное образование (техническое или экономическое). - опыт работы табельщиком на производстве не менее 1 года. - ",
+                "responsibility": "Ведение табельного учета фактического времени пребывания работников на производстве. Ежедневный сбор и занесение в базу данных учета рабочего времени персонала. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "69643976",
+            "premium": false,
+            "name": "Администратор в диагностический центр",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 25000,
+                "to": 30000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "улица Энтузиастов",
+                "building": "11",
+                "description": null,
+                "lat": 47.514512,
+                "lng": 42.200103,
+                "raw": "Волгодонск, улица Энтузиастов, 11",
+                "metro": null,
+                "metro_stations": [],
+                "id": "4743045"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-10-26T10:11:08+0300",
+            "created_at": "2022-10-26T10:11:08+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=69643976",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/69643976?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/69643976/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/69643976",
+            "relations": [],
+            "employer": {
+                "id": "1443076",
+                "name": "МРТШКА",
+                "url": "https://api.hh.ru/employers/1443076",
+                "alternate_url": "https://hh.ru/employer/1443076",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/933497.jpg",
+                    "240": "https://hhcdn.ru/employer-logo/4174541.jpeg",
+                    "90": "https://hhcdn.ru/employer-logo/4174540.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1443076",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": null,
+                "responsibility": "Что будет будет входит в функционал сотрудника на данной должности: Консультирование пациентов диагностического центра по предоставляемым услугам. Оформление всех необходимых..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "shift",
+                "name": "Сменный график"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72530580",
+            "premium": false,
+            "name": "Администратор",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 40000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "улица Черникова",
+                "building": "10А",
+                "description": null,
+                "lat": 47.523798,
+                "lng": 42.196133,
+                "raw": "Волгодонск, улица Черникова, 10А",
+                "metro": null,
+                "metro_stations": [],
+                "id": "6374488"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-18T12:13:32+0300",
+            "created_at": "2022-11-18T12:13:32+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72530580",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72530580?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72530580/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72530580",
+            "relations": [],
+            "employer": {
+                "id": "5695428",
+                "name": "Спецторг, Юг",
+                "url": "https://api.hh.ru/employers/5695428",
+                "alternate_url": "https://hh.ru/employer/5695428",
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/5577676.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/5577677.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/989216.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=5695428",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Рассмотрим кандидатов с опытом работы: старший товаровед, управляющий, администратор, старший кассир.",
+                "responsibility": "Организация работы продавцов и кассиров. Контроль за оформлением торгового зала. Решение конфликтных ситуаций, связанных с обслуживанием клиентов. Контроль за наличием..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72352617",
+            "premium": false,
+            "name": "Технический директор",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 128500,
+                "to": 231500,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "Жуковское шоссе",
+                "building": "10",
+                "description": null,
+                "lat": 47.507616,
+                "lng": 42.219228,
+                "raw": "Волгодонск, Жуковское шоссе, 10",
+                "metro": null,
+                "metro_stations": [],
+                "id": "3684107"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-15T13:16:26+0300",
+            "created_at": "2022-11-15T13:16:26+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72352617",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72352617?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72352617/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72352617",
+            "relations": [],
+            "employer": {
+                "id": "4358880",
+                "name": "Волгодонский филиал АО АТМ",
+                "url": "https://api.hh.ru/employers/4358880",
+                "alternate_url": "https://hh.ru/employer/4358880",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/773326.png",
+                    "90": "https://hhcdn.ru/employer-logo/3534195.png",
+                    "240": "https://hhcdn.ru/employer-logo/3534196.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4358880",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Высшее техническое образование. Стаж работы на руководящей должности не менее 5 лет. Уверенный пользователь ПК, работа в программах Microsoft Office...",
+                "responsibility": "Оперативное руководство службой главного технолога и конструкторской группой. Обеспечение своевременной и качественной подготовки конструкторской и технологической документации. Работа с проектными..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72477552",
+            "premium": false,
+            "name": "Оператор 1C",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 30000,
+                "to": 35000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "Складская улица",
+                "building": "10",
+                "description": null,
+                "lat": 47.538004,
+                "lng": 42.120836,
+                "raw": "Волгодонск, Складская улица, 10",
+                "metro": null,
+                "metro_stations": [],
+                "id": "4976253"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-17T15:33:43+0300",
+            "created_at": "2022-11-17T15:33:43+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72477552",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72477552?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72477552/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72477552",
+            "relations": [],
+            "employer": {
+                "id": "3688098",
+                "name": "SferaMebely",
+                "url": "https://api.hh.ru/employers/3688098",
+                "alternate_url": "https://hh.ru/employer/3688098",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3688098",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Знание ПК. Опыт работы в 1С. Внимательность. Стрессоустойчивость.",
+                "responsibility": "Формирование заказов в 1 с. Формирование отчетности. Поддержание порядка в документации. Ввод данных. Документооборот."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "shift",
+                "name": "Сменный график"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72485399",
+            "premium": false,
+            "name": "Инженер ПТО",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 80000,
+                "to": 90000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-17T17:21:36+0300",
+            "created_at": "2022-11-17T17:21:36+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72485399",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72485399?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72485399/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72485399",
+            "relations": [],
+            "employer": {
+                "id": "6130539",
+                "name": "Стройподряд",
+                "url": "https://api.hh.ru/employers/6130539",
+                "alternate_url": "https://hh.ru/employer/6130539",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=6130539",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Образование высшее (строительное, техническое). - Знание ПК на уровне уверенного пользователя. - Autocade, MC Office. - Внимательность, ответственное отношение к работе.",
+                "responsibility": "строительство любых жилых зданий. - строительство административно-бытовых, промышленных и социальных объектов. - строительство спортивных сооружений. - капитальный ремонт и комплексная реконструкция зданий..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "71911726",
+            "premium": false,
+            "name": "Специалист по качеству",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 35000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "Степная улица",
+                "building": "16/1",
+                "description": null,
+                "lat": 47.507397,
+                "lng": 42.147201,
+                "raw": "Волгодонск, Степная улица, 16/1",
+                "metro": null,
+                "metro_stations": [],
+                "id": "3840996"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-03T11:38:54+0300",
+            "created_at": "2022-11-03T11:38:54+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=71911726",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/71911726?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/71911726/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/71911726",
+            "relations": [],
+            "employer": {
+                "id": "2887048",
+                "name": "Полесье",
+                "url": "https://api.hh.ru/employers/2887048",
+                "alternate_url": "https://hh.ru/employer/2887048",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/982534.jpg",
+                    "240": "https://hhcdn.ru/employer-logo/5550957.jpeg",
+                    "90": "https://hhcdn.ru/employer-logo/5550956.jpeg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2887048",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Знание стандартов по системе менеджмента качества ISO 9001 и другие. Высшее техническое образование.",
+                "responsibility": "Разработка, корректировка документов системы менеджмента качества. Проведение внутренних и внешних аудитов. Разработка и подготовка разрешительной документации (лицензии, сертификаты соответствия). "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "71503083",
+            "premium": false,
+            "name": "Продавец-Универсал (Волгодонск)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 25000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-16T09:55:11+0300",
+            "created_at": "2022-11-16T09:55:11+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=71503083",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/71503083?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/71503083/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/71503083",
+            "relations": [],
+            "employer": {
+                "id": "4483549",
+                "name": "ТС Победа",
+                "url": "https://api.hh.ru/employers/4483549",
+                "alternate_url": "https://hh.ru/employer/4483549",
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/3299172.png",
+                    "240": "https://hhcdn.ru/employer-logo/3299173.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/714514.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4483549",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Трудолюбивы. - Исполнительны. - Аккуратны.",
+                "responsibility": null
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "shift",
+                "name": "Сменный график"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72331409",
+            "premium": false,
+            "name": "Менеджер по снабжению и продажам",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 30000,
+                "to": 50000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "бульвар Великой Победы",
+                "building": "13",
+                "description": null,
+                "lat": 47.516776,
+                "lng": 42.192342,
+                "raw": "Волгодонск, бульвар Великой Победы, 13",
+                "metro": null,
+                "metro_stations": [],
+                "id": "3888014"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-21T07:58:38+0300",
+            "created_at": "2022-11-21T07:58:38+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72331409",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72331409?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72331409/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72331409",
+            "relations": [],
+            "employer": {
+                "id": "3480725",
+                "name": "Торговый Дом Регионпромсервис",
+                "url": "https://api.hh.ru/employers/3480725",
+                "alternate_url": "https://hh.ru/employer/3480725",
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/2609669.jpeg",
+                    "240": "https://hhcdn.ru/employer-logo/2609670.jpeg",
+                    "original": "https://hhcdn.ru/employer-logo-original/542049.jpg"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3480725",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Ответственность, исполнительность. Грамотная устная и письменная речь. Внимательность. Знание Excel, Word,1С.",
+                "responsibility": "Оформление заявок поставщикам,ведение переговоров, контроль за выполнением заказа, составление писем. Оформление доверенностей в 1С на получение продукции. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72460221",
+            "premium": false,
+            "name": "Администратор базы отдыха",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 24000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "улица Отдыха",
+                "building": "51А",
+                "description": null,
+                "lat": 47.570065,
+                "lng": 42.063416,
+                "raw": "Волгодонск, улица Отдыха, 51А",
+                "metro": null,
+                "metro_stations": [],
+                "id": "12180918"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-20T11:41:31+0300",
+            "created_at": "2022-11-20T11:41:31+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72460221",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72460221?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72460221/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72460221",
+            "relations": [],
+            "employer": {
+                "id": "9348355",
+                "name": "Свитенко Дмитрий Витальевич",
+                "url": "https://api.hh.ru/employers/9348355",
+                "alternate_url": "https://hh.ru/employer/9348355",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9348355",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Знание ПК обязательно, образование высшее, грамотная устная и письменная речь, опрятный внешний вид, аккуратность, ответственность,стрессоустойчивость, быстрая обучаемость, доброжелательность.",
+                "responsibility": "Консультирование и размещение гостей, работа в системе бронирования, работа с кассой, другие обязанности по должности, ведение отчётности."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72139260",
+            "premium": false,
+            "name": "Водитель легкового автомобиля",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 26000,
+                "to": 40000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-09T17:33:00+0300",
+            "created_at": "2022-11-09T17:33:00+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72139260",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72139260?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72139260/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72139260",
+            "relations": [],
+            "employer": {
+                "id": "1143979",
+                "name": "Газпром межрегионгаз Ростов-на- Дону",
+                "url": "https://api.hh.ru/employers/1143979",
+                "alternate_url": "https://hh.ru/employer/1143979",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/68348.png",
+                    "240": "https://hhcdn.ru/employer-logo/1110222.png",
+                    "90": "https://hhcdn.ru/employer-logo/1110221.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1143979",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Наличие водительского удостоверения. Стаж работы водителем от 3-х лет.",
+                "responsibility": "Транспортное обеспечение работников организации. Безопасное и профессиональное управление автомобилем. Содержание авто в исправном техническом состоянии."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72029806",
+            "premium": false,
+            "name": "Менеджер отдела кадров, охраны труда",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 45000,
+                "to": null,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "улица Химиков",
+                "building": "60/31",
+                "description": null,
+                "lat": 47.511846,
+                "lng": 42.117611,
+                "raw": "Волгодонск, улица Химиков, 60/31",
+                "metro": null,
+                "metro_stations": [],
+                "id": "11113473"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-07T16:50:13+0300",
+            "created_at": "2022-11-07T16:50:13+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72029806",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72029806?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72029806/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72029806",
+            "relations": [],
+            "employer": {
+                "id": "8640124",
+                "name": "Аква-Плюс",
+                "url": "https://api.hh.ru/employers/8640124",
+                "alternate_url": "https://hh.ru/employer/8640124",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=8640124",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Аналогичный опыт работы от 1 года. Знание 1С8.3, офисных программ. Обучаемость, умение работать с большим объёмом информации. ",
+                "responsibility": "Поиск сотрудников согласно технических заданий. -Вeдeниe кадрового дeлопpоизводства в пoлнoм oбъёме (приём, пepeвoды, увoльнение, отпуcкa, пoдгoтовка тpудoвыx дoгoворов и дополнитeльныx..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72129185",
+            "premium": false,
+            "name": "Продавец-консультант",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 22000,
+                "to": 23000,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "100 улица Ленина",
+                "building": null,
+                "description": null,
+                "lat": 47.5115041886,
+                "lng": 42.1618245542,
+                "raw": "Волгодонск, 100 улица Ленина",
+                "metro": null,
+                "metro_stations": [],
+                "id": "12123213"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-09T14:50:33+0300",
+            "created_at": "2022-11-09T14:50:33+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72129185",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72129185?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72129185/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72129185",
+            "relations": [],
+            "employer": {
+                "id": "9334092",
+                "name": "Бюрократ",
+                "url": "https://api.hh.ru/employers/9334092",
+                "alternate_url": "https://hh.ru/employer/9334092",
+                "logo_urls": null,
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=9334092",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Коммуникабельность , трудолюбие , аккуратность.",
+                "responsibility": "Прием товара, выкладка товара , порядок в торговом зале , кассовые операции."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "72650104",
+            "premium": false,
+            "name": "Водитель категории B",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 35000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "2-я Заводская улица",
+                "building": "21",
+                "description": null,
+                "lat": 47.493627,
+                "lng": 42.208871,
+                "raw": "Волгодонск, 2-я Заводская улица, 21",
+                "metro": null,
+                "metro_stations": [],
+                "id": "12207652"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-21T07:54:51+0300",
+            "created_at": "2022-11-21T07:54:51+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=72650104",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/72650104?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/72650104/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/72650104",
+            "relations": [],
+            "employer": {
+                "id": "2476133",
+                "name": "ЭКСПРЕСС",
+                "url": "https://api.hh.ru/employers/2476133",
+                "alternate_url": "https://hh.ru/employer/2476133",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/917787.png",
+                    "90": "https://hhcdn.ru/employer-logo/4111728.png",
+                    "240": "https://hhcdn.ru/employer-logo/4111729.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2476133",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Базовые знания работы в компьютере. - Инициативность. - Водительское удостоверение категории B.",
+                "responsibility": "Разгрузочно/погрузочные работы. - Развоз товара по клиентам. - Следить за закрепленным транспортным средством. - Помощь на складе по поручениям."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "71814515",
+            "premium": false,
+            "name": "Производитель работ",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": null,
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": null,
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-01T13:31:59+0300",
+            "created_at": "2022-11-01T13:31:59+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=71814515",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/71814515?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/71814515/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/71814515",
+            "relations": [],
+            "employer": {
+                "id": "4105652",
+                "name": "Архидон",
+                "url": "https://api.hh.ru/employers/4105652",
+                "alternate_url": "https://hh.ru/employer/4105652",
+                "logo_urls": {
+                    "original": "https://hhcdn.ru/employer-logo-original/1008542.png",
+                    "90": "https://hhcdn.ru/employer-logo/5654944.png",
+                    "240": "https://hhcdn.ru/employer-logo/5654945.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=4105652",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Техническое образование не ниже среднего профессионального. Опыт работы в аналогичной должности на объектах капитального строительства, желательно с нулевого цикла. ",
+                "responsibility": "Организация и контроль строительных и производственных работ на объекте. Руководство и контроль качества и сроков выполнения бригады до 20 человек. "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "70845306",
+            "premium": false,
+            "name": "Сотрудник склада",
+            "department": {
+                "id": "ozonru-2180-boro",
+                "name": "Ozon Производство"
+            },
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 80000,
+                "to": 245000,
+                "currency": "RUR",
+                "gross": true
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "Гагарина улица",
+                "building": "15Б",
+                "description": null,
+                "lat": 47.515784,
+                "lng": 42.211278,
+                "raw": "Волгодонск, Гагарина улица, 15Б",
+                "metro": null,
+                "metro_stations": [],
+                "id": "11890022"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-11-04T00:07:42+0300",
+            "created_at": "2022-11-04T00:07:42+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=70845306",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/70845306?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/70845306/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/70845306",
+            "relations": [],
+            "employer": {
+                "id": "2180",
+                "name": "Ozon",
+                "url": "https://api.hh.ru/employers/2180",
+                "alternate_url": "https://hh.ru/employer/2180",
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/3391429.png",
+                    "240": "https://hhcdn.ru/employer-logo/3391430.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/737613.png"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2180",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "МОЖНО БЕЗ ОПЫТА. Готовность к интенсивному сотрудничеству в условиях производства. Внимательность, ответственность.",
+                "responsibility": "Приветствуется опыт в области сборки заказов, приемки товаров, комплектовки, упаковки, фасовки, погрузочно-разгрузочных операций. ️Вам предстоит: Прием и упаковка товара..."
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "flyInFlyOut",
+                "name": "Вахтовый метод"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        },
+        {
+            "id": "71639405",
+            "premium": false,
+            "name": "Специалист планово-экономического отдела (Экономист)",
+            "department": null,
+            "has_test": false,
+            "response_letter_required": false,
+            "area": {
+                "id": "1535",
+                "name": "Волгодонск",
+                "url": "https://api.hh.ru/areas/1535"
+            },
+            "salary": {
+                "from": 30000,
+                "to": null,
+                "currency": "RUR",
+                "gross": false
+            },
+            "type": {
+                "id": "open",
+                "name": "Открытая"
+            },
+            "address": {
+                "city": "Волгодонск",
+                "street": "улица Гагарина",
+                "building": "15Б",
+                "description": null,
+                "lat": 47.515784,
+                "lng": 42.211278,
+                "raw": "Волгодонск, улица Гагарина, 15Б",
+                "metro": null,
+                "metro_stations": [],
+                "id": "308760"
+            },
+            "response_url": null,
+            "sort_point_distance": null,
+            "published_at": "2022-10-26T20:01:34+0300",
+            "created_at": "2022-10-26T20:01:34+0300",
+            "archived": false,
+            "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=71639405",
+            "insider_interview": null,
+            "url": "https://api.hh.ru/vacancies/71639405?host=hh.ru",
+            "adv_response_url": "https://api.hh.ru/vacancies/71639405/adv_response?host=hh.ru",
+            "alternate_url": "https://hh.ru/vacancy/71639405",
+            "relations": [],
+            "employer": {
+                "id": "597000",
+                "name": "Розничная сеть ТриЯ",
+                "url": "https://api.hh.ru/employers/597000",
+                "alternate_url": "https://hh.ru/employer/597000",
+                "logo_urls": {
+                    "90": "https://hhcdn.ru/employer-logo/371198.png",
+                    "240": "https://hhcdn.ru/employer-logo/444055.png",
+                    "original": "https://hhcdn.ru/employer-logo-original/167794.gif"
+                },
+                "vacancies_url": "https://api.hh.ru/vacancies?employer_id=597000",
+                "trusted": true
+            },
+            "snippet": {
+                "requirement": "Знание 1С (преимущественно управленческий учет). Усидчивость. Стрессоустойчивость. Умение работать в команде. Умение донести свою мысль. Желательно с высшим экономическим...",
+                "responsibility": "Контроль правильности ведения управленческой документации и отчетности (закрытие операционного периода, исправление ошибок в документах, ведение ежемесячных плановых отчетов). "
+            },
+            "contacts": null,
+            "schedule": {
+                "id": "fullDay",
+                "name": "Полный день"
+            },
+            "working_days": [],
+            "working_time_intervals": [],
+            "working_time_modes": [],
+            "accept_temporary": false
+        }
+    ],
+    "found": 679,
+    "pages": 34,
+    "per_page": 20,
+    "page": 0,
+    "clusters": null,
+    "arguments": null,
+    "alternate_url": "https://hh.ru/search/vacancy?area=1535&control_flag=vacancyBlacklistJoinEnabled%3ATrue&control_flag=ratesBoostEnabled%3ATrue&control_flag=ratesBoostFactor%3A1e-05&control_flag=ratesBoostRealCoef%3A1.0&control_flag=ratesBoostPredCoef%3A1.0&control_flag=ratesThreshold%3A0.01&control_flag=responsesThreshold%3A9&control_flag=defaultModelVer%3ANone&enable_snippets=true"
+}

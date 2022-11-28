@@ -1,0 +1,131 @@
+{
+    "id": "71755253",
+    "premium": false,
+    "billing_type": {
+        "id": "standard_plus",
+        "name": "Стандарт плюс"
+    },
+    "relations": [],
+    "name": "Ведущий инженер-программист С++",
+    "insider_interview": null,
+    "response_letter_required": false,
+    "area": {
+        "id": "1535",
+        "name": "Волгодонск",
+        "url": "https://api.hh.ru/areas/1535"
+    },
+    "salary": {
+        "from": 150000,
+        "to": 250000,
+        "currency": "RUR",
+        "gross": false
+    },
+    "type": {
+        "id": "open",
+        "name": "Открытая"
+    },
+    "address": {
+        "city": "Волгодонск",
+        "street": "7-я Заводская улица",
+        "building": "60",
+        "description": null,
+        "lat": 47.503398,
+        "lng": 42.23149,
+        "raw": "Волгодонск, 7-я Заводская улица, 60",
+        "metro": null,
+        "metro_stations": []
+    },
+    "allow_messages": true,
+    "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+    },
+    "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+    },
+    "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+    },
+    "department": null,
+    "contacts": null,
+    "description": "<strong>Обязанности:</strong> <ul> <li>Составление формализованных описаний решений поставленных задач</li> <li>Оценка и согласовывание сроков выполнения поставленных задач</li> <li>Создание программного кода в соответствии с техническим заданием</li> <li>Работа с системой контроля версий</li> <li>Проверка и отладка программного кода</li> <li>Согласование с заказчиком технического задания к программному обеспечению.</li> <li>Участие в сопровождении и внедрении разработанного программного обеспечения.</li> <li>Совершенствование имеющегося программного обеспечения в соответствии с новыми требованиями, а также устранение открывшихся недочетов.</li> </ul> <strong>Требования:</strong> <ul> <li> <p>Умение программировать</p> Опыт работы с микроконтроллерами STM32 или иными</li> <li> <p>Уверенное знание С++, в т.ч. нововведения С++11, С++14</p> </li> <li> <p>Понимание принципов ООП.</p> </li> </ul> <p><strong>Приветствуются знания и умения:</strong></p> <ul> <li>tcp/ip, lwip</li> <li>freertos</li> <li>gcc, gdb</li> <li>visual studio</li> <li>базовые знания python</li> <li>чтение электронных схем</li> <li>работа с осциллографом</li> </ul> <p><strong>Условия:</strong></p> <ul> <li>возможна компенсация релокации;</li> <li>постоянная занятость;</li> <li>полный рабочий день с 8-00 до 16-45 (обед 45 минут);</li> <li><strong>работа на территории предприятия в г. Волгодонске. Удаленный формат работы не рассматривается;</strong></li> <li>пятидневная рабочая неделя;</li> <li>доставка на работу автобусом предприятия;</li> <li>оборудованное рабочее место;</li> <li>возможны переработки (стараемся, что бы это было исключением из правил) - полностью оплачиваются или компенсируются отгулами;</li> <li>оформление и полный соц.пакет по ТК;</li> <li>заработная плата без задержек перечисляется на банковскую карту два раза в месяц: 20 числа текущего месяца и 5 числа следующего месяца;</li> <li>испытательный срок 3 месяца;</li> <li>оплата 50% приходящего летнего лагеря для детей работников;</li> <li>ежегодное поощрение детей работников за &quot;отличную учебу&quot;;</li> <li>оплата развлекательных и оздоровительных мероприятий для работников;</li> <li>обучение и повышение квалификации;</li> <li>ежегодная премия за выслугу лет;</li> </ul>",
+    "branded_description": null,
+    "vacancy_constructor_template": null,
+    "key_skills": [
+        {
+            "name": "опыт работы с микроконтроллерами STM32 и иными"
+        }
+    ],
+    "accept_handicapped": false,
+    "accept_kids": false,
+    "archived": false,
+    "response_url": null,
+    "specializations": [
+        {
+            "id": "1.221",
+            "name": "Программирование, Разработка",
+            "profarea_id": "1",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "id": "1.50",
+            "name": "Системы управления предприятием (ERP)",
+            "profarea_id": "1",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "id": "1.82",
+            "name": "Инженер",
+            "profarea_id": "1",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "id": "1.9",
+            "name": "Web инженер",
+            "profarea_id": "1",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        },
+        {
+            "id": "1.10",
+            "name": "Web мастер",
+            "profarea_id": "1",
+            "profarea_name": "Информационные технологии, интернет, телеком"
+        }
+    ],
+    "professional_roles": [
+        {
+            "id": "96",
+            "name": "Программист, разработчик"
+        }
+    ],
+    "code": null,
+    "hidden": false,
+    "quick_responses_allowed": false,
+    "driver_license_types": [],
+    "accept_incomplete_resumes": false,
+    "employer": {
+        "id": "3461189",
+        "name": "Топаз-сервис",
+        "url": "https://api.hh.ru/employers/3461189",
+        "alternate_url": "https://hh.ru/employer/3461189",
+        "logo_urls": null,
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3461189",
+        "trusted": true
+    },
+    "published_at": "2022-11-21T09:58:00+0300",
+    "created_at": "2022-11-21T09:58:00+0300",
+    "initial_created_at": "2022-10-31T09:58:00+0300",
+    "negotiations_url": null,
+    "suitable_resumes_url": null,
+    "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=71755253",
+    "has_test": false,
+    "test": null,
+    "alternate_url": "https://hh.ru/vacancy/71755253",
+    "working_days": [],
+    "working_time_intervals": [],
+    "working_time_modes": [],
+    "accept_temporary": false,
+    "languages": []
+}
